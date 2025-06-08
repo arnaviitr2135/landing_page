@@ -6,8 +6,10 @@ This is a simple **landing page** built as part of The Odin Project curriculum. 
 
 ## 📸 Preview
 
-![screenshot](screenshot.png)  
+![image](https://github.com/user-attachments/assets/10b0ba96-2a25-4319-bef5-75229553af50)
+ 
 *A sample screenshot of the landing page UI.*
+
 
 ## 🚀 Features
 
